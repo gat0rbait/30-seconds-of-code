@@ -21,6 +21,6 @@ return result;
 ```
 
 ```js
-binaryToInt("0001"); // "1"
-binaryToInt("110010001000"); // "3208"
+binaryToInt("0001"); // 1
+binaryToInt("110010001000"); // 3208
 ```

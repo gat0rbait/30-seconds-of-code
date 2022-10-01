@@ -40,6 +40,6 @@ return result;
 ```
 
 ```js
-hexToInt("C"); // "12"
-hexToInt("4A"); // "74"
+hexToInt("C"); // 12
+hexToInt("4A"); // 74
 ```
