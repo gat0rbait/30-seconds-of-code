@@ -43,8 +43,7 @@ const hexKey = {
      result += stack.pop()
  }
 
-console.log(result);
-  return result;
+return result;
 }
 ```
 
